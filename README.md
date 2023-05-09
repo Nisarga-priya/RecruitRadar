@@ -8,3 +8,6 @@ The "Best Source of Recruitment for a Tech Startup" project aims to identify the
 2.Data Preprocessing
 3.Analysis
 4.Conclusion
+## Contents:
+1.Python jupyter file with EDA
+2.Video presentation of Steps taken to identify the best source of recruitment for a tech startup, based on previous data of candidate sources and recruitment strategies
